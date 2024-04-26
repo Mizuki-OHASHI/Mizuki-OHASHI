@@ -2,8 +2,6 @@
 
 ## Github Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Mizuki-OHASHI)
-
 <!--
 <a href="https://github.com/Mizuki-OHASHI/github-readme-stats-clone">
   <picture>
