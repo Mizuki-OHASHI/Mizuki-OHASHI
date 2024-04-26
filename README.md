@@ -1,6 +1,14 @@
 ## About me
 
+- Currently working on Typescript as a backend engineer
+
+## Languages and Skills
+
+![skills](https://skillicons.dev/icons?i=latex,py,go,mysql,docker,typescript,react,nodejs,jest,tailwind)
+
 ## Github Stats
+
+![top-langs-of-public-repo](https://github-readme-stats.vercel.app/api/top-langs?username=Mizuki-OHASHI&layout=compact)
 
 <!--
 <a href="https://github.com/Mizuki-OHASHI/github-readme-stats-clone">
