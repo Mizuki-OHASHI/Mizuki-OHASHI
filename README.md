@@ -10,7 +10,7 @@
 </a>
 <a href="https://github.com/Mizuki-OHASHI/github-readme-stats-clone">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-clone-mocha.vercel.app/api/top-langs/?username=Mizuki-OHASHI&theme=dark&layout=compact">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-clone-mocha.vercel.app/api/top-langs/?username=Mizuki-OHASHI&theme=dark&layout=compact&count_private=true">
     <img height=160 align="center" src="https://github-readme-stats-clone-mocha.vercel.app/api/top-langs/?username=Mizuki-OHASHI&layout=compact">
   </picture>
 </a>
