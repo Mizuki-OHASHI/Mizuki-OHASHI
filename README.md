@@ -2,6 +2,9 @@
 
 ## Github Stats
 
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Mizuki-OHASHI)
+
+<!--
 <a href="https://github.com/Mizuki-OHASHI/github-readme-stats-clone">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-clone-mocha.vercel.app/api?username=Mizuki-OHASHI&count_private=true&theme=dark&show_icons=true&rank_icon=github">
