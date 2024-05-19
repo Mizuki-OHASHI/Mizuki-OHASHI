@@ -10,7 +10,7 @@
 
 ![stat](https://github-readme-stats.vercel.app/api?username=Mizuki-OHASHI&count_private=true&theme=dark&show_icons=true&rank_icon=github)
 
-![top-langs-of-public-repo](https://github-readme-stats.vercel.app/api/top-langs?username=Mizuki-OHASHI&layout=compact)
+![top-langs-of-public-repo](https://github-readme-stats.vercel.app/api/top-langs?username=Mizuki-OHASHI&layout=compact&theme=dark)
 
 
 <!--
