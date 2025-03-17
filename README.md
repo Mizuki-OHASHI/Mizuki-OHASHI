@@ -4,7 +4,7 @@
 
 ## Languages and Skills
 
-![skills](https://skillicons.dev/icons?i=latex,py,fastapi,go,mysql,docker,typescript,react,nodejs,jest,tailwind)
+![skills](https://skillicons.dev/icons?i=latex,py,fastapi,go,mysql,docker,typescript,react,nodejs,tailwind,dart,flutter)
 
 ## Github Stats
 
